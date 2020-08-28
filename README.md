@@ -1,4 +1,4 @@
-# Git_Demo
+# git-demo
 My first Git Demo Project
 
 ## About Myself
